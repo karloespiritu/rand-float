@@ -1,0 +1,35 @@
+{
+  "name": "rand-float",
+  "version": "1.0.0",
+  "description": "Generate a random float number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "random",
+    "float",
+    "number"
+  ],
+  "author": {
+    "name": "Karlo Espiritu",
+    "email": "karloespiritu@gmail.com",
+    "url": "http://karloespiritu.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karloespiritu/rand-float/issues"
+  },
+  "homepage": "https://github.com/karloespiritu/rand-float#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karloespiritu/rand-float.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "tape": "^4.6.0"
+  },
+  "engines": {
+      "node": ">= 5.6.0"
+  }
+}
